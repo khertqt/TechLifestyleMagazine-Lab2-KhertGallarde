@@ -1,3 +1,5 @@
+Completed Lab 2 - Multi-Page Magazine Website
+
 Khert Gallarde - 2023303810
 
 The design uses a clean and modern look to make the website easy to read and navigate.
